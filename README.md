@@ -30,9 +30,7 @@
 > SuperSCP1853 hooks into SCPSL’s item events to detect the AntiSCP207 + SCP-1853 combo and remove the Poisoned effect.  
 
 > ⚠️ **Dependencies**  
-> - Exiled **9.6.2** or later  
-> - Exiled.API.Extensions.dll (for effect removal)  
-
+> - Exiled **9.6.2**
 ---
 
 ## 🧩 Features
