@@ -37,10 +37,7 @@
 
 ## 🧩 Features
 
-- 🛡️ Grants **immunity to poison** when both AntiSCP207 and SCP-1853 are used  
-- 🚫 Cancels **all subsequent damage** after the combo is activated  
-- 🔄 **Auto-clears** Poisoned effect on the player  
-- 🎛️ Simple, hard-coded item IDs—no extra config needed  
+- 🛡️ Grants **immunity to poison** when both AntiSCP207 and SCP-1853 are used    
 
 ---
 
